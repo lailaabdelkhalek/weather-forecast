@@ -1,0 +1,103 @@
+span{
+    font-size: 10px !important;
+}
+
+h5{
+    font-size: 15px;
+}
+.collapse a{
+    transition: all 1s;
+}
+.collapse a:hover{
+    color: #009ad8 !important;
+    border: #009ad8 2px solid;
+    border-radius: 20px !important;
+    padding: 2px 15px !important;
+}
+
+body , .navbar{
+    background-color: #1e202b !important;
+}
+
+.secinpt{
+    background-color: #262936;
+    border-radius: 30px !important;
+    color: white !important;
+}
+
+.forminfo{
+    width: 80%;
+    background-color: #262936;
+    border-radius: 10px;
+}
+
+p{
+    color: #bfc1c8;
+}
+
+i{
+    color: #009ad8;
+}
+
+
+.contactform input , .contactform textarea{
+    background-color: transparent;
+    border: #262936 3px solid;
+    border-radius: 20px;
+    transition: all 1s;
+}
+
+.contactform input:hover{
+   border: #009ad8 3px solid;
+}
+.contactform textarea:hover{
+    border: #009ad8 3px solid;
+ }
+
+ .contactform button{
+    padding: 8px 25px;
+    background-color: #009ad8;
+    color: white;
+    border-radius: 20px;
+ }
+
+ footer{
+     background-color: #262936;
+    
+ }
+
+
+ #homefooter , .footerdiv{
+     background-color: #262936;
+ }
+ #homefooter input{
+    border-radius: 30px !important;
+    width: 60.5% !important;
+}
+
+#homefooter button{
+    border-radius: 30px !important;  
+    padding: 12px 25px;
+    background-color: #009ad8;
+    color: white;
+    left: 58%;
+    transform: translateX(-58%);
+}
+
+#homefooter i{
+    border: 0px solid;
+    border-radius: 50%;
+    background-color: #1e202b;
+    padding: 15px;
+    color: #009ad8;
+    transition: all 1s;
+}
+
+#homefooter i:hover{
+    background-color: #009ad8;
+    color: white;
+}
+
+.pfooter {
+    color: #bfc1c8;
+}
